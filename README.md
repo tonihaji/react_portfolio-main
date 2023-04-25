@@ -8,4 +8,3 @@ live preview : https://johnalexportfolio.netlify.app/
 
 mail: codeaprogram@gmail.com
 
-happy coding :)
